@@ -4,5 +4,8 @@
 - busy as hell = yeah i like having multiple accs to org. my stuff.
 
 ## Current Prods
-- Coding Rentry Website | ▰▰▰▰▰▰▰▰▰▱ 90%
+- Theita Lore site | ▱▱▱▱▱▱▱▱▱▱ 0%
 - Making personal website | ▱▱▱▱▱▱▱▱▱▱ 0%
+
+## Finished Prods
+- Coding Rentry Website | ▰▰▰▰▰▰▰▰▰▰ 100%
