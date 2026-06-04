@@ -5,6 +5,6 @@
 
 ## Current Prods
 - Making personal website | 70%
-- neocities webcult /j | 0%
 ## Finished Prods
 - Coding Rentry Website | 100%
+- neocities webcult /j | 100%
